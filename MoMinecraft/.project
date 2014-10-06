@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MoMinecraft</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>common</name>
+			<type>2</type>
+			<location>C:/Users/Drew/Desktop/Mo&apos; Minecraft/common</location>
+		</link>
+		<link>
+			<name>jars</name>
+			<type>2</type>
+			<location>C:/Users/Drew/Desktop/Mo&apos; Minecraft/jars</location>
+		</link>
+		<link>
+			<name>lib</name>
+			<type>2</type>
+			<location>C:/Users/Drew/Desktop/Mo&apos; Minecraft/lib</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>C:/Users/Drew/Desktop/Mo&apos; Minecraft/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
